@@ -1,0 +1,4768 @@
+[
+    {
+        "ent_type": {
+            "correct": 77,
+            "incorrect": 2,
+            "partial": 0,
+            "missed": 8,
+            "spurious": 26,
+            "possible": 87,
+            "actual": 105,
+            "precision": 0.7333333333333333,
+            "recall": 0.8850574712643678,
+            "f1": 0.8020833333333334
+        },
+        "partial": {
+            "correct": 72,
+            "incorrect": 0,
+            "partial": 7,
+            "missed": 8,
+            "spurious": 26,
+            "possible": 87,
+            "actual": 105,
+            "precision": 0.719047619047619,
+            "recall": 0.867816091954023,
+            "f1": 0.7864583333333333
+        },
+        "strict": {
+            "correct": 70,
+            "incorrect": 9,
+            "partial": 0,
+            "missed": 8,
+            "spurious": 26,
+            "possible": 87,
+            "actual": 105,
+            "precision": 0.6666666666666666,
+            "recall": 0.8045977011494253,
+            "f1": 0.7291666666666666
+        },
+        "exact": {
+            "correct": 72,
+            "incorrect": 7,
+            "partial": 0,
+            "missed": 8,
+            "spurious": 26,
+            "possible": 87,
+            "actual": 105,
+            "precision": 0.6857142857142857,
+            "recall": 0.8275862068965517,
+            "f1": 0.75
+        }
+    },
+    {
+        "Admission date": {
+            "ent_type": {
+                "correct": 7,
+                "incorrect": 1,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 1,
+                "possible": 8,
+                "actual": 9,
+                "precision": 0.7777777777777778,
+                "recall": 0.875,
+                "f1": 0.823529411764706
+            },
+            "partial": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 1,
+                "possible": 8,
+                "actual": 9,
+                "precision": 0.8888888888888888,
+                "recall": 1.0,
+                "f1": 0.9411764705882353
+            },
+            "strict": {
+                "correct": 7,
+                "incorrect": 1,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 1,
+                "possible": 8,
+                "actual": 9,
+                "precision": 0.7777777777777778,
+                "recall": 0.875,
+                "f1": 0.823529411764706
+            },
+            "exact": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 1,
+                "possible": 8,
+                "actual": 9,
+                "precision": 0.8888888888888888,
+                "recall": 1.0,
+                "f1": 0.9411764705882353
+            }
+        },
+        "Diagnosis": {
+            "ent_type": {
+                "correct": 4,
+                "incorrect": 1,
+                "partial": 0,
+                "missed": 1,
+                "spurious": 2,
+                "possible": 6,
+                "actual": 7,
+                "precision": 0.5714285714285714,
+                "recall": 0.6666666666666666,
+                "f1": 0.6153846153846153
+            },
+            "partial": {
+                "correct": 5,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 1,
+                "spurious": 2,
+                "possible": 6,
+                "actual": 7,
+                "precision": 0.7142857142857143,
+                "recall": 0.8333333333333334,
+                "f1": 0.7692307692307692
+            },
+            "strict": {
+                "correct": 4,
+                "incorrect": 1,
+                "partial": 0,
+                "missed": 1,
+                "spurious": 2,
+                "possible": 6,
+                "actual": 7,
+                "precision": 0.5714285714285714,
+                "recall": 0.6666666666666666,
+                "f1": 0.6153846153846153
+            },
+            "exact": {
+                "correct": 5,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 1,
+                "spurious": 2,
+                "possible": 6,
+                "actual": 7,
+                "precision": 0.7142857142857143,
+                "recall": 0.8333333333333334,
+                "f1": 0.7692307692307692
+            }
+        },
+        "Disease": {
+            "ent_type": {
+                "correct": 0,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 0,
+                "actual": 0,
+                "precision": 0,
+                "recall": 0,
+                "f1": 0
+            },
+            "partial": {
+                "correct": 0,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 0,
+                "actual": 0,
+                "precision": 0,
+                "recall": 0,
+                "f1": 0
+            },
+            "strict": {
+                "correct": 0,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 0,
+                "actual": 0,
+                "precision": 0,
+                "recall": 0,
+                "f1": 0
+            },
+            "exact": {
+                "correct": 0,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 0,
+                "actual": 0,
+                "precision": 0,
+                "recall": 0,
+                "f1": 0
+            }
+        },
+        "Medical discharge date": {
+            "ent_type": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 2,
+                "possible": 8,
+                "actual": 10,
+                "precision": 0.8,
+                "recall": 1.0,
+                "f1": 0.888888888888889
+            },
+            "partial": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 2,
+                "possible": 8,
+                "actual": 10,
+                "precision": 0.8,
+                "recall": 1.0,
+                "f1": 0.888888888888889
+            },
+            "strict": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 2,
+                "possible": 8,
+                "actual": 10,
+                "precision": 0.8,
+                "recall": 1.0,
+                "f1": 0.888888888888889
+            },
+            "exact": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 2,
+                "possible": 8,
+                "actual": 10,
+                "precision": 0.8,
+                "recall": 1.0,
+                "f1": 0.888888888888889
+            }
+        },
+        "Medication and dosing": {
+            "ent_type": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 8,
+                "possible": 8,
+                "actual": 16,
+                "precision": 0.5,
+                "recall": 1.0,
+                "f1": 0.6666666666666666
+            },
+            "partial": {
+                "correct": 5,
+                "incorrect": 0,
+                "partial": 3,
+                "missed": 0,
+                "spurious": 8,
+                "possible": 8,
+                "actual": 16,
+                "precision": 0.40625,
+                "recall": 0.8125,
+                "f1": 0.5416666666666666
+            },
+            "strict": {
+                "correct": 5,
+                "incorrect": 3,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 8,
+                "possible": 8,
+                "actual": 16,
+                "precision": 0.3125,
+                "recall": 0.625,
+                "f1": 0.4166666666666667
+            },
+            "exact": {
+                "correct": 5,
+                "incorrect": 3,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 8,
+                "possible": 8,
+                "actual": 16,
+                "precision": 0.3125,
+                "recall": 0.625,
+                "f1": 0.4166666666666667
+            }
+        },
+        "Names of Patiens": {
+            "ent_type": {
+                "correct": 0,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 1,
+                "spurious": 0,
+                "possible": 1,
+                "actual": 0,
+                "precision": 0,
+                "recall": 0.0,
+                "f1": 0
+            },
+            "partial": {
+                "correct": 0,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 1,
+                "spurious": 0,
+                "possible": 1,
+                "actual": 0,
+                "precision": 0,
+                "recall": 0.0,
+                "f1": 0
+            },
+            "strict": {
+                "correct": 0,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 1,
+                "spurious": 0,
+                "possible": 1,
+                "actual": 0,
+                "precision": 0,
+                "recall": 0.0,
+                "f1": 0
+            },
+            "exact": {
+                "correct": 0,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 1,
+                "spurious": 0,
+                "possible": 1,
+                "actual": 0,
+                "precision": 0,
+                "recall": 0.0,
+                "f1": 0
+            }
+        },
+        "Patient's Age": {
+            "ent_type": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "partial": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "strict": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "exact": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            }
+        },
+        "Patient's Height": {
+            "ent_type": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "partial": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "strict": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "exact": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            }
+        },
+        "Patient's Sex": {
+            "ent_type": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "partial": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "strict": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "exact": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            }
+        },
+        "Patient's Weight": {
+            "ent_type": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "partial": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "strict": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            },
+            "exact": {
+                "correct": 8,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 0,
+                "possible": 8,
+                "actual": 8,
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1": 1.0
+            }
+        },
+        "Procedure": {
+            "ent_type": {
+                "correct": 3,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 8,
+                "possible": 3,
+                "actual": 11,
+                "precision": 0.2727272727272727,
+                "recall": 1.0,
+                "f1": 0.42857142857142855
+            },
+            "partial": {
+                "correct": 3,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 8,
+                "possible": 3,
+                "actual": 11,
+                "precision": 0.2727272727272727,
+                "recall": 1.0,
+                "f1": 0.42857142857142855
+            },
+            "strict": {
+                "correct": 3,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 8,
+                "possible": 3,
+                "actual": 11,
+                "precision": 0.2727272727272727,
+                "recall": 1.0,
+                "f1": 0.42857142857142855
+            },
+            "exact": {
+                "correct": 3,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 0,
+                "spurious": 8,
+                "possible": 3,
+                "actual": 11,
+                "precision": 0.2727272727272727,
+                "recall": 1.0,
+                "f1": 0.42857142857142855
+            }
+        },
+        "Symptom": {
+            "ent_type": {
+                "correct": 10,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 3,
+                "spurious": 2,
+                "possible": 13,
+                "actual": 12,
+                "precision": 0.8333333333333334,
+                "recall": 0.7692307692307693,
+                "f1": 0.8
+            },
+            "partial": {
+                "correct": 6,
+                "incorrect": 0,
+                "partial": 4,
+                "missed": 3,
+                "spurious": 2,
+                "possible": 13,
+                "actual": 12,
+                "precision": 0.6666666666666666,
+                "recall": 0.6153846153846154,
+                "f1": 0.64
+            },
+            "strict": {
+                "correct": 6,
+                "incorrect": 4,
+                "partial": 0,
+                "missed": 3,
+                "spurious": 2,
+                "possible": 13,
+                "actual": 12,
+                "precision": 0.5,
+                "recall": 0.46153846153846156,
+                "f1": 0.48000000000000004
+            },
+            "exact": {
+                "correct": 6,
+                "incorrect": 4,
+                "partial": 0,
+                "missed": 3,
+                "spurious": 2,
+                "possible": 13,
+                "actual": 12,
+                "precision": 0.5,
+                "recall": 0.46153846153846156,
+                "f1": 0.48000000000000004
+            }
+        },
+        "Tests": {
+            "ent_type": {
+                "correct": 5,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 3,
+                "spurious": 3,
+                "possible": 8,
+                "actual": 8,
+                "precision": 0.625,
+                "recall": 0.625,
+                "f1": 0.625
+            },
+            "partial": {
+                "correct": 5,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 3,
+                "spurious": 3,
+                "possible": 8,
+                "actual": 8,
+                "precision": 0.625,
+                "recall": 0.625,
+                "f1": 0.625
+            },
+            "strict": {
+                "correct": 5,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 3,
+                "spurious": 3,
+                "possible": 8,
+                "actual": 8,
+                "precision": 0.625,
+                "recall": 0.625,
+                "f1": 0.625
+            },
+            "exact": {
+                "correct": 5,
+                "incorrect": 0,
+                "partial": 0,
+                "missed": 3,
+                "spurious": 3,
+                "possible": 8,
+                "actual": 8,
+                "precision": 0.625,
+                "recall": 0.625,
+                "f1": 0.625
+            }
+        }
+    },
+    {
+        "strict": {
+            "correct_indices": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    1
+                ],
+                [
+                    0,
+                    2
+                ],
+                [
+                    0,
+                    3
+                ],
+                [
+                    0,
+                    10
+                ],
+                [
+                    1,
+                    0
+                ],
+                [
+                    1,
+                    1
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    5
+                ],
+                [
+                    1,
+                    7
+                ],
+                [
+                    1,
+                    8
+                ],
+                [
+                    1,
+                    9
+                ],
+                [
+                    1,
+                    12
+                ],
+                [
+                    2,
+                    0
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    2,
+                    5
+                ],
+                [
+                    2,
+                    6
+                ],
+                [
+                    2,
+                    8
+                ],
+                [
+                    2,
+                    12
+                ],
+                [
+                    3,
+                    0
+                ],
+                [
+                    3,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    4
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    3,
+                    6
+                ],
+                [
+                    3,
+                    7
+                ],
+                [
+                    4,
+                    0
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    4,
+                    4
+                ],
+                [
+                    4,
+                    5
+                ],
+                [
+                    4,
+                    7
+                ],
+                [
+                    4,
+                    8
+                ],
+                [
+                    4,
+                    9
+                ],
+                [
+                    4,
+                    10
+                ],
+                [
+                    4,
+                    11
+                ],
+                [
+                    4,
+                    12
+                ],
+                [
+                    5,
+                    0
+                ],
+                [
+                    5,
+                    1
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    5,
+                    5
+                ],
+                [
+                    5,
+                    7
+                ],
+                [
+                    5,
+                    8
+                ],
+                [
+                    5,
+                    9
+                ],
+                [
+                    6,
+                    0
+                ],
+                [
+                    6,
+                    1
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    6,
+                    4
+                ],
+                [
+                    6,
+                    5
+                ],
+                [
+                    6,
+                    6
+                ],
+                [
+                    6,
+                    8
+                ],
+                [
+                    7,
+                    0
+                ],
+                [
+                    7,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    7,
+                    3
+                ],
+                [
+                    7,
+                    4
+                ],
+                [
+                    7,
+                    5
+                ],
+                [
+                    7,
+                    6
+                ],
+                [
+                    7,
+                    7
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            "incorrect_indices": [
+                [
+                    0,
+                    9
+                ],
+                [
+                    1,
+                    11
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    4,
+                    6
+                ],
+                [
+                    4,
+                    6
+                ],
+                [
+                    5,
+                    6
+                ],
+                [
+                    5,
+                    6
+                ],
+                [
+                    7,
+                    9
+                ],
+                [
+                    7,
+                    10
+                ]
+            ],
+            "partial_indices": [],
+            "missed_indices": [
+                [
+                    0,
+                    4
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    2,
+                    8
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    3,
+                    6
+                ],
+                [
+                    3,
+                    7
+                ],
+                [
+                    3,
+                    8
+                ],
+                [
+                    5,
+                    8
+                ]
+            ],
+            "spurious_indices": [
+                [
+                    0,
+                    4
+                ],
+                [
+                    0,
+                    5
+                ],
+                [
+                    0,
+                    6
+                ],
+                [
+                    0,
+                    7
+                ],
+                [
+                    0,
+                    8
+                ],
+                [
+                    0,
+                    11
+                ],
+                [
+                    1,
+                    6
+                ],
+                [
+                    1,
+                    10
+                ],
+                [
+                    2,
+                    9
+                ],
+                [
+                    2,
+                    10
+                ],
+                [
+                    2,
+                    11
+                ],
+                [
+                    2,
+                    13
+                ],
+                [
+                    2,
+                    14
+                ],
+                [
+                    2,
+                    15
+                ],
+                [
+                    3,
+                    8
+                ],
+                [
+                    4,
+                    13
+                ],
+                [
+                    4,
+                    14
+                ],
+                [
+                    5,
+                    10
+                ],
+                [
+                    6,
+                    7
+                ],
+                [
+                    6,
+                    9
+                ],
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    11
+                ],
+                [
+                    6,
+                    12
+                ],
+                [
+                    7,
+                    11
+                ],
+                [
+                    7,
+                    12
+                ],
+                [
+                    7,
+                    13
+                ]
+            ]
+        },
+        "ent_type": {
+            "correct_indices": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    1
+                ],
+                [
+                    0,
+                    2
+                ],
+                [
+                    0,
+                    3
+                ],
+                [
+                    0,
+                    10
+                ],
+                [
+                    1,
+                    0
+                ],
+                [
+                    1,
+                    1
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    5
+                ],
+                [
+                    1,
+                    7
+                ],
+                [
+                    1,
+                    8
+                ],
+                [
+                    1,
+                    9
+                ],
+                [
+                    1,
+                    12
+                ],
+                [
+                    2,
+                    0
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    2,
+                    5
+                ],
+                [
+                    2,
+                    6
+                ],
+                [
+                    2,
+                    8
+                ],
+                [
+                    2,
+                    12
+                ],
+                [
+                    3,
+                    0
+                ],
+                [
+                    3,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    4
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    3,
+                    6
+                ],
+                [
+                    3,
+                    7
+                ],
+                [
+                    4,
+                    0
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    4,
+                    4
+                ],
+                [
+                    4,
+                    5
+                ],
+                [
+                    4,
+                    7
+                ],
+                [
+                    4,
+                    8
+                ],
+                [
+                    4,
+                    9
+                ],
+                [
+                    4,
+                    10
+                ],
+                [
+                    4,
+                    11
+                ],
+                [
+                    4,
+                    12
+                ],
+                [
+                    5,
+                    0
+                ],
+                [
+                    5,
+                    1
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    5,
+                    5
+                ],
+                [
+                    5,
+                    7
+                ],
+                [
+                    5,
+                    8
+                ],
+                [
+                    5,
+                    9
+                ],
+                [
+                    6,
+                    0
+                ],
+                [
+                    6,
+                    1
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    6,
+                    4
+                ],
+                [
+                    6,
+                    5
+                ],
+                [
+                    6,
+                    6
+                ],
+                [
+                    6,
+                    8
+                ],
+                [
+                    7,
+                    0
+                ],
+                [
+                    7,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    7,
+                    3
+                ],
+                [
+                    7,
+                    4
+                ],
+                [
+                    7,
+                    5
+                ],
+                [
+                    7,
+                    6
+                ],
+                [
+                    7,
+                    7
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            "incorrect_indices": [
+                [
+                    0,
+                    9
+                ],
+                [
+                    2,
+                    7
+                ]
+            ],
+            "partial_indices": [],
+            "missed_indices": [
+                [
+                    0,
+                    4
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    2,
+                    8
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    3,
+                    6
+                ],
+                [
+                    3,
+                    7
+                ],
+                [
+                    3,
+                    8
+                ],
+                [
+                    5,
+                    8
+                ]
+            ],
+            "spurious_indices": [
+                [
+                    0,
+                    4
+                ],
+                [
+                    0,
+                    5
+                ],
+                [
+                    0,
+                    6
+                ],
+                [
+                    0,
+                    7
+                ],
+                [
+                    0,
+                    8
+                ],
+                [
+                    0,
+                    11
+                ],
+                [
+                    1,
+                    6
+                ],
+                [
+                    1,
+                    10
+                ],
+                [
+                    2,
+                    9
+                ],
+                [
+                    2,
+                    10
+                ],
+                [
+                    2,
+                    11
+                ],
+                [
+                    2,
+                    13
+                ],
+                [
+                    2,
+                    14
+                ],
+                [
+                    2,
+                    15
+                ],
+                [
+                    3,
+                    8
+                ],
+                [
+                    4,
+                    13
+                ],
+                [
+                    4,
+                    14
+                ],
+                [
+                    5,
+                    10
+                ],
+                [
+                    6,
+                    7
+                ],
+                [
+                    6,
+                    9
+                ],
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    11
+                ],
+                [
+                    6,
+                    12
+                ],
+                [
+                    7,
+                    11
+                ],
+                [
+                    7,
+                    12
+                ],
+                [
+                    7,
+                    13
+                ]
+            ]
+        },
+        "partial": {
+            "correct_indices": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    1
+                ],
+                [
+                    0,
+                    2
+                ],
+                [
+                    0,
+                    3
+                ],
+                [
+                    0,
+                    10
+                ],
+                [
+                    1,
+                    0
+                ],
+                [
+                    1,
+                    1
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    5
+                ],
+                [
+                    1,
+                    7
+                ],
+                [
+                    1,
+                    8
+                ],
+                [
+                    1,
+                    9
+                ],
+                [
+                    1,
+                    12
+                ],
+                [
+                    2,
+                    0
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    2,
+                    5
+                ],
+                [
+                    2,
+                    6
+                ],
+                [
+                    2,
+                    8
+                ],
+                [
+                    2,
+                    12
+                ],
+                [
+                    3,
+                    0
+                ],
+                [
+                    3,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    4
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    3,
+                    6
+                ],
+                [
+                    3,
+                    7
+                ],
+                [
+                    4,
+                    0
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    4,
+                    4
+                ],
+                [
+                    4,
+                    5
+                ],
+                [
+                    4,
+                    7
+                ],
+                [
+                    4,
+                    8
+                ],
+                [
+                    4,
+                    9
+                ],
+                [
+                    4,
+                    10
+                ],
+                [
+                    4,
+                    11
+                ],
+                [
+                    4,
+                    12
+                ],
+                [
+                    5,
+                    0
+                ],
+                [
+                    5,
+                    1
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    5,
+                    5
+                ],
+                [
+                    5,
+                    7
+                ],
+                [
+                    5,
+                    8
+                ],
+                [
+                    5,
+                    9
+                ],
+                [
+                    6,
+                    0
+                ],
+                [
+                    6,
+                    1
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    6,
+                    4
+                ],
+                [
+                    6,
+                    5
+                ],
+                [
+                    6,
+                    6
+                ],
+                [
+                    6,
+                    8
+                ],
+                [
+                    7,
+                    0
+                ],
+                [
+                    7,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    7,
+                    3
+                ],
+                [
+                    7,
+                    4
+                ],
+                [
+                    7,
+                    5
+                ],
+                [
+                    7,
+                    6
+                ],
+                [
+                    7,
+                    7
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            "incorrect_indices": [],
+            "partial_indices": [
+                [
+                    1,
+                    11
+                ],
+                [
+                    4,
+                    6
+                ],
+                [
+                    4,
+                    6
+                ],
+                [
+                    5,
+                    6
+                ],
+                [
+                    5,
+                    6
+                ],
+                [
+                    7,
+                    9
+                ],
+                [
+                    7,
+                    10
+                ]
+            ],
+            "missed_indices": [
+                [
+                    0,
+                    4
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    2,
+                    8
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    3,
+                    6
+                ],
+                [
+                    3,
+                    7
+                ],
+                [
+                    3,
+                    8
+                ],
+                [
+                    5,
+                    8
+                ]
+            ],
+            "spurious_indices": [
+                [
+                    0,
+                    4
+                ],
+                [
+                    0,
+                    5
+                ],
+                [
+                    0,
+                    6
+                ],
+                [
+                    0,
+                    7
+                ],
+                [
+                    0,
+                    8
+                ],
+                [
+                    0,
+                    11
+                ],
+                [
+                    1,
+                    6
+                ],
+                [
+                    1,
+                    10
+                ],
+                [
+                    2,
+                    9
+                ],
+                [
+                    2,
+                    10
+                ],
+                [
+                    2,
+                    11
+                ],
+                [
+                    2,
+                    13
+                ],
+                [
+                    2,
+                    14
+                ],
+                [
+                    2,
+                    15
+                ],
+                [
+                    3,
+                    8
+                ],
+                [
+                    4,
+                    13
+                ],
+                [
+                    4,
+                    14
+                ],
+                [
+                    5,
+                    10
+                ],
+                [
+                    6,
+                    7
+                ],
+                [
+                    6,
+                    9
+                ],
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    11
+                ],
+                [
+                    6,
+                    12
+                ],
+                [
+                    7,
+                    11
+                ],
+                [
+                    7,
+                    12
+                ],
+                [
+                    7,
+                    13
+                ]
+            ]
+        },
+        "exact": {
+            "correct_indices": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    1
+                ],
+                [
+                    0,
+                    2
+                ],
+                [
+                    0,
+                    3
+                ],
+                [
+                    0,
+                    10
+                ],
+                [
+                    1,
+                    0
+                ],
+                [
+                    1,
+                    1
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    5
+                ],
+                [
+                    1,
+                    7
+                ],
+                [
+                    1,
+                    8
+                ],
+                [
+                    1,
+                    9
+                ],
+                [
+                    1,
+                    12
+                ],
+                [
+                    2,
+                    0
+                ],
+                [
+                    2,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    2,
+                    5
+                ],
+                [
+                    2,
+                    6
+                ],
+                [
+                    2,
+                    8
+                ],
+                [
+                    2,
+                    12
+                ],
+                [
+                    3,
+                    0
+                ],
+                [
+                    3,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ],
+                [
+                    3,
+                    4
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    3,
+                    6
+                ],
+                [
+                    3,
+                    7
+                ],
+                [
+                    4,
+                    0
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    4,
+                    4
+                ],
+                [
+                    4,
+                    5
+                ],
+                [
+                    4,
+                    7
+                ],
+                [
+                    4,
+                    8
+                ],
+                [
+                    4,
+                    9
+                ],
+                [
+                    4,
+                    10
+                ],
+                [
+                    4,
+                    11
+                ],
+                [
+                    4,
+                    12
+                ],
+                [
+                    5,
+                    0
+                ],
+                [
+                    5,
+                    1
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    5,
+                    5
+                ],
+                [
+                    5,
+                    7
+                ],
+                [
+                    5,
+                    8
+                ],
+                [
+                    5,
+                    9
+                ],
+                [
+                    6,
+                    0
+                ],
+                [
+                    6,
+                    1
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    6,
+                    4
+                ],
+                [
+                    6,
+                    5
+                ],
+                [
+                    6,
+                    6
+                ],
+                [
+                    6,
+                    8
+                ],
+                [
+                    7,
+                    0
+                ],
+                [
+                    7,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    7,
+                    3
+                ],
+                [
+                    7,
+                    4
+                ],
+                [
+                    7,
+                    5
+                ],
+                [
+                    7,
+                    6
+                ],
+                [
+                    7,
+                    7
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            "incorrect_indices": [
+                [
+                    1,
+                    11
+                ],
+                [
+                    4,
+                    6
+                ],
+                [
+                    4,
+                    6
+                ],
+                [
+                    5,
+                    6
+                ],
+                [
+                    5,
+                    6
+                ],
+                [
+                    7,
+                    9
+                ],
+                [
+                    7,
+                    10
+                ]
+            ],
+            "partial_indices": [],
+            "missed_indices": [
+                [
+                    0,
+                    4
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    2,
+                    8
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    3,
+                    6
+                ],
+                [
+                    3,
+                    7
+                ],
+                [
+                    3,
+                    8
+                ],
+                [
+                    5,
+                    8
+                ]
+            ],
+            "spurious_indices": [
+                [
+                    0,
+                    4
+                ],
+                [
+                    0,
+                    5
+                ],
+                [
+                    0,
+                    6
+                ],
+                [
+                    0,
+                    7
+                ],
+                [
+                    0,
+                    8
+                ],
+                [
+                    0,
+                    11
+                ],
+                [
+                    1,
+                    6
+                ],
+                [
+                    1,
+                    10
+                ],
+                [
+                    2,
+                    9
+                ],
+                [
+                    2,
+                    10
+                ],
+                [
+                    2,
+                    11
+                ],
+                [
+                    2,
+                    13
+                ],
+                [
+                    2,
+                    14
+                ],
+                [
+                    2,
+                    15
+                ],
+                [
+                    3,
+                    8
+                ],
+                [
+                    4,
+                    13
+                ],
+                [
+                    4,
+                    14
+                ],
+                [
+                    5,
+                    10
+                ],
+                [
+                    6,
+                    7
+                ],
+                [
+                    6,
+                    9
+                ],
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    11
+                ],
+                [
+                    6,
+                    12
+                ],
+                [
+                    7,
+                    11
+                ],
+                [
+                    7,
+                    12
+                ],
+                [
+                    7,
+                    13
+                ]
+            ]
+        }
+    },
+    {
+        "Admission date": {
+            "strict": {
+                "correct_indices": [
+                    [
+                        1,
+                        4
+                    ],
+                    [
+                        2,
+                        4
+                    ],
+                    [
+                        3,
+                        4
+                    ],
+                    [
+                        4,
+                        4
+                    ],
+                    [
+                        5,
+                        4
+                    ],
+                    [
+                        6,
+                        4
+                    ],
+                    [
+                        7,
+                        4
+                    ]
+                ],
+                "incorrect_indices": [
+                    [
+                        0,
+                        9
+                    ]
+                ],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            },
+            "ent_type": {
+                "correct_indices": [
+                    [
+                        1,
+                        4
+                    ],
+                    [
+                        2,
+                        4
+                    ],
+                    [
+                        3,
+                        4
+                    ],
+                    [
+                        4,
+                        4
+                    ],
+                    [
+                        5,
+                        4
+                    ],
+                    [
+                        6,
+                        4
+                    ],
+                    [
+                        7,
+                        4
+                    ]
+                ],
+                "incorrect_indices": [
+                    [
+                        0,
+                        9
+                    ]
+                ],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            },
+            "partial": {
+                "correct_indices": [
+                    [
+                        1,
+                        4
+                    ],
+                    [
+                        2,
+                        4
+                    ],
+                    [
+                        3,
+                        4
+                    ],
+                    [
+                        4,
+                        4
+                    ],
+                    [
+                        5,
+                        4
+                    ],
+                    [
+                        6,
+                        4
+                    ],
+                    [
+                        7,
+                        4
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            },
+            "exact": {
+                "correct_indices": [
+                    [
+                        1,
+                        4
+                    ],
+                    [
+                        2,
+                        4
+                    ],
+                    [
+                        3,
+                        4
+                    ],
+                    [
+                        4,
+                        4
+                    ],
+                    [
+                        5,
+                        4
+                    ],
+                    [
+                        6,
+                        4
+                    ],
+                    [
+                        7,
+                        4
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            }
+        },
+        "Diagnosis": {
+            "strict": {
+                "correct_indices": [
+                    [
+                        1,
+                        8
+                    ],
+                    [
+                        4,
+                        9
+                    ],
+                    [
+                        5,
+                        7
+                    ],
+                    [
+                        7,
+                        8
+                    ]
+                ],
+                "incorrect_indices": [
+                    [
+                        2,
+                        7
+                    ]
+                ],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        3,
+                        8
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        0,
+                        6
+                    ],
+                    [
+                        6,
+                        7
+                    ]
+                ]
+            },
+            "ent_type": {
+                "correct_indices": [
+                    [
+                        1,
+                        8
+                    ],
+                    [
+                        4,
+                        9
+                    ],
+                    [
+                        5,
+                        7
+                    ],
+                    [
+                        7,
+                        8
+                    ]
+                ],
+                "incorrect_indices": [
+                    [
+                        2,
+                        7
+                    ]
+                ],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        3,
+                        8
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        0,
+                        6
+                    ],
+                    [
+                        6,
+                        7
+                    ]
+                ]
+            },
+            "partial": {
+                "correct_indices": [
+                    [
+                        1,
+                        8
+                    ],
+                    [
+                        4,
+                        9
+                    ],
+                    [
+                        5,
+                        7
+                    ],
+                    [
+                        7,
+                        8
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        3,
+                        8
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        0,
+                        6
+                    ],
+                    [
+                        6,
+                        7
+                    ]
+                ]
+            },
+            "exact": {
+                "correct_indices": [
+                    [
+                        1,
+                        8
+                    ],
+                    [
+                        4,
+                        9
+                    ],
+                    [
+                        5,
+                        7
+                    ],
+                    [
+                        7,
+                        8
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        3,
+                        8
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        0,
+                        6
+                    ],
+                    [
+                        6,
+                        7
+                    ]
+                ]
+            }
+        },
+        "Disease": {
+            "strict": {
+                "correct_indices": [],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "ent_type": {
+                "correct_indices": [],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "partial": {
+                "correct_indices": [],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "exact": {
+                "correct_indices": [],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            }
+        },
+        "Medical discharge date": {
+            "strict": {
+                "correct_indices": [
+                    [
+                        0,
+                        10
+                    ],
+                    [
+                        1,
+                        12
+                    ],
+                    [
+                        2,
+                        12
+                    ],
+                    [
+                        3,
+                        6
+                    ],
+                    [
+                        4,
+                        5
+                    ],
+                    [
+                        5,
+                        5
+                    ],
+                    [
+                        6,
+                        5
+                    ],
+                    [
+                        7,
+                        5
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        1,
+                        10
+                    ],
+                    [
+                        2,
+                        9
+                    ]
+                ]
+            },
+            "ent_type": {
+                "correct_indices": [
+                    [
+                        0,
+                        10
+                    ],
+                    [
+                        1,
+                        12
+                    ],
+                    [
+                        2,
+                        12
+                    ],
+                    [
+                        3,
+                        6
+                    ],
+                    [
+                        4,
+                        5
+                    ],
+                    [
+                        5,
+                        5
+                    ],
+                    [
+                        6,
+                        5
+                    ],
+                    [
+                        7,
+                        5
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        1,
+                        10
+                    ],
+                    [
+                        2,
+                        9
+                    ]
+                ]
+            },
+            "partial": {
+                "correct_indices": [
+                    [
+                        0,
+                        10
+                    ],
+                    [
+                        1,
+                        12
+                    ],
+                    [
+                        2,
+                        12
+                    ],
+                    [
+                        3,
+                        6
+                    ],
+                    [
+                        4,
+                        5
+                    ],
+                    [
+                        5,
+                        5
+                    ],
+                    [
+                        6,
+                        5
+                    ],
+                    [
+                        7,
+                        5
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        1,
+                        10
+                    ],
+                    [
+                        2,
+                        9
+                    ]
+                ]
+            },
+            "exact": {
+                "correct_indices": [
+                    [
+                        0,
+                        10
+                    ],
+                    [
+                        1,
+                        12
+                    ],
+                    [
+                        2,
+                        12
+                    ],
+                    [
+                        3,
+                        6
+                    ],
+                    [
+                        4,
+                        5
+                    ],
+                    [
+                        5,
+                        5
+                    ],
+                    [
+                        6,
+                        5
+                    ],
+                    [
+                        7,
+                        5
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        1,
+                        10
+                    ],
+                    [
+                        2,
+                        9
+                    ]
+                ]
+            }
+        },
+        "Medication and dosing": {
+            "strict": {
+                "correct_indices": [
+                    [
+                        3,
+                        5
+                    ],
+                    [
+                        4,
+                        11
+                    ],
+                    [
+                        4,
+                        12
+                    ],
+                    [
+                        5,
+                        8
+                    ],
+                    [
+                        5,
+                        9
+                    ]
+                ],
+                "incorrect_indices": [
+                    [
+                        1,
+                        11
+                    ],
+                    [
+                        7,
+                        9
+                    ],
+                    [
+                        7,
+                        10
+                    ]
+                ],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        7
+                    ],
+                    [
+                        0,
+                        8
+                    ],
+                    [
+                        2,
+                        10
+                    ],
+                    [
+                        2,
+                        11
+                    ],
+                    [
+                        2,
+                        13
+                    ],
+                    [
+                        2,
+                        14
+                    ],
+                    [
+                        6,
+                        10
+                    ],
+                    [
+                        6,
+                        11
+                    ]
+                ]
+            },
+            "ent_type": {
+                "correct_indices": [
+                    [
+                        3,
+                        5
+                    ],
+                    [
+                        4,
+                        11
+                    ],
+                    [
+                        4,
+                        12
+                    ],
+                    [
+                        5,
+                        8
+                    ],
+                    [
+                        5,
+                        9
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        7
+                    ],
+                    [
+                        0,
+                        8
+                    ],
+                    [
+                        2,
+                        10
+                    ],
+                    [
+                        2,
+                        11
+                    ],
+                    [
+                        2,
+                        13
+                    ],
+                    [
+                        2,
+                        14
+                    ],
+                    [
+                        6,
+                        10
+                    ],
+                    [
+                        6,
+                        11
+                    ]
+                ]
+            },
+            "partial": {
+                "correct_indices": [
+                    [
+                        3,
+                        5
+                    ],
+                    [
+                        4,
+                        11
+                    ],
+                    [
+                        4,
+                        12
+                    ],
+                    [
+                        5,
+                        8
+                    ],
+                    [
+                        5,
+                        9
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [
+                    [
+                        1,
+                        11
+                    ],
+                    [
+                        7,
+                        9
+                    ],
+                    [
+                        7,
+                        10
+                    ]
+                ],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        7
+                    ],
+                    [
+                        0,
+                        8
+                    ],
+                    [
+                        2,
+                        10
+                    ],
+                    [
+                        2,
+                        11
+                    ],
+                    [
+                        2,
+                        13
+                    ],
+                    [
+                        2,
+                        14
+                    ],
+                    [
+                        6,
+                        10
+                    ],
+                    [
+                        6,
+                        11
+                    ]
+                ]
+            },
+            "exact": {
+                "correct_indices": [
+                    [
+                        3,
+                        5
+                    ],
+                    [
+                        4,
+                        11
+                    ],
+                    [
+                        4,
+                        12
+                    ],
+                    [
+                        5,
+                        8
+                    ],
+                    [
+                        5,
+                        9
+                    ]
+                ],
+                "incorrect_indices": [
+                    [
+                        1,
+                        11
+                    ],
+                    [
+                        7,
+                        9
+                    ],
+                    [
+                        7,
+                        10
+                    ]
+                ],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        7
+                    ],
+                    [
+                        0,
+                        8
+                    ],
+                    [
+                        2,
+                        10
+                    ],
+                    [
+                        2,
+                        11
+                    ],
+                    [
+                        2,
+                        13
+                    ],
+                    [
+                        2,
+                        14
+                    ],
+                    [
+                        6,
+                        10
+                    ],
+                    [
+                        6,
+                        11
+                    ]
+                ]
+            }
+        },
+        "Names of Patiens": {
+            "strict": {
+                "correct_indices": [],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        0,
+                        4
+                    ]
+                ],
+                "spurious_indices": []
+            },
+            "ent_type": {
+                "correct_indices": [],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        0,
+                        4
+                    ]
+                ],
+                "spurious_indices": []
+            },
+            "partial": {
+                "correct_indices": [],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        0,
+                        4
+                    ]
+                ],
+                "spurious_indices": []
+            },
+            "exact": {
+                "correct_indices": [],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        0,
+                        4
+                    ]
+                ],
+                "spurious_indices": []
+            }
+        },
+        "Patient's Age": {
+            "strict": {
+                "correct_indices": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        3,
+                        0
+                    ],
+                    [
+                        4,
+                        0
+                    ],
+                    [
+                        5,
+                        0
+                    ],
+                    [
+                        6,
+                        0
+                    ],
+                    [
+                        7,
+                        0
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "ent_type": {
+                "correct_indices": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        3,
+                        0
+                    ],
+                    [
+                        4,
+                        0
+                    ],
+                    [
+                        5,
+                        0
+                    ],
+                    [
+                        6,
+                        0
+                    ],
+                    [
+                        7,
+                        0
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "partial": {
+                "correct_indices": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        3,
+                        0
+                    ],
+                    [
+                        4,
+                        0
+                    ],
+                    [
+                        5,
+                        0
+                    ],
+                    [
+                        6,
+                        0
+                    ],
+                    [
+                        7,
+                        0
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "exact": {
+                "correct_indices": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        3,
+                        0
+                    ],
+                    [
+                        4,
+                        0
+                    ],
+                    [
+                        5,
+                        0
+                    ],
+                    [
+                        6,
+                        0
+                    ],
+                    [
+                        7,
+                        0
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            }
+        },
+        "Patient's Height": {
+            "strict": {
+                "correct_indices": [
+                    [
+                        0,
+                        2
+                    ],
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        2,
+                        2
+                    ],
+                    [
+                        3,
+                        2
+                    ],
+                    [
+                        4,
+                        2
+                    ],
+                    [
+                        5,
+                        2
+                    ],
+                    [
+                        6,
+                        2
+                    ],
+                    [
+                        7,
+                        2
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "ent_type": {
+                "correct_indices": [
+                    [
+                        0,
+                        2
+                    ],
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        2,
+                        2
+                    ],
+                    [
+                        3,
+                        2
+                    ],
+                    [
+                        4,
+                        2
+                    ],
+                    [
+                        5,
+                        2
+                    ],
+                    [
+                        6,
+                        2
+                    ],
+                    [
+                        7,
+                        2
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "partial": {
+                "correct_indices": [
+                    [
+                        0,
+                        2
+                    ],
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        2,
+                        2
+                    ],
+                    [
+                        3,
+                        2
+                    ],
+                    [
+                        4,
+                        2
+                    ],
+                    [
+                        5,
+                        2
+                    ],
+                    [
+                        6,
+                        2
+                    ],
+                    [
+                        7,
+                        2
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "exact": {
+                "correct_indices": [
+                    [
+                        0,
+                        2
+                    ],
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        2,
+                        2
+                    ],
+                    [
+                        3,
+                        2
+                    ],
+                    [
+                        4,
+                        2
+                    ],
+                    [
+                        5,
+                        2
+                    ],
+                    [
+                        6,
+                        2
+                    ],
+                    [
+                        7,
+                        2
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            }
+        },
+        "Patient's Sex": {
+            "strict": {
+                "correct_indices": [
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        1,
+                        1
+                    ],
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        3,
+                        1
+                    ],
+                    [
+                        4,
+                        1
+                    ],
+                    [
+                        5,
+                        1
+                    ],
+                    [
+                        6,
+                        1
+                    ],
+                    [
+                        7,
+                        1
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "ent_type": {
+                "correct_indices": [
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        1,
+                        1
+                    ],
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        3,
+                        1
+                    ],
+                    [
+                        4,
+                        1
+                    ],
+                    [
+                        5,
+                        1
+                    ],
+                    [
+                        6,
+                        1
+                    ],
+                    [
+                        7,
+                        1
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "partial": {
+                "correct_indices": [
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        1,
+                        1
+                    ],
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        3,
+                        1
+                    ],
+                    [
+                        4,
+                        1
+                    ],
+                    [
+                        5,
+                        1
+                    ],
+                    [
+                        6,
+                        1
+                    ],
+                    [
+                        7,
+                        1
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "exact": {
+                "correct_indices": [
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        1,
+                        1
+                    ],
+                    [
+                        2,
+                        1
+                    ],
+                    [
+                        3,
+                        1
+                    ],
+                    [
+                        4,
+                        1
+                    ],
+                    [
+                        5,
+                        1
+                    ],
+                    [
+                        6,
+                        1
+                    ],
+                    [
+                        7,
+                        1
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            }
+        },
+        "Patient's Weight": {
+            "strict": {
+                "correct_indices": [
+                    [
+                        0,
+                        3
+                    ],
+                    [
+                        1,
+                        3
+                    ],
+                    [
+                        2,
+                        3
+                    ],
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        4,
+                        3
+                    ],
+                    [
+                        5,
+                        3
+                    ],
+                    [
+                        6,
+                        3
+                    ],
+                    [
+                        7,
+                        3
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "ent_type": {
+                "correct_indices": [
+                    [
+                        0,
+                        3
+                    ],
+                    [
+                        1,
+                        3
+                    ],
+                    [
+                        2,
+                        3
+                    ],
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        4,
+                        3
+                    ],
+                    [
+                        5,
+                        3
+                    ],
+                    [
+                        6,
+                        3
+                    ],
+                    [
+                        7,
+                        3
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "partial": {
+                "correct_indices": [
+                    [
+                        0,
+                        3
+                    ],
+                    [
+                        1,
+                        3
+                    ],
+                    [
+                        2,
+                        3
+                    ],
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        4,
+                        3
+                    ],
+                    [
+                        5,
+                        3
+                    ],
+                    [
+                        6,
+                        3
+                    ],
+                    [
+                        7,
+                        3
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            },
+            "exact": {
+                "correct_indices": [
+                    [
+                        0,
+                        3
+                    ],
+                    [
+                        1,
+                        3
+                    ],
+                    [
+                        2,
+                        3
+                    ],
+                    [
+                        3,
+                        3
+                    ],
+                    [
+                        4,
+                        3
+                    ],
+                    [
+                        5,
+                        3
+                    ],
+                    [
+                        6,
+                        3
+                    ],
+                    [
+                        7,
+                        3
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": []
+            }
+        },
+        "Procedure": {
+            "strict": {
+                "correct_indices": [
+                    [
+                        1,
+                        9
+                    ],
+                    [
+                        2,
+                        8
+                    ],
+                    [
+                        4,
+                        10
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        11
+                    ],
+                    [
+                        3,
+                        8
+                    ],
+                    [
+                        4,
+                        13
+                    ],
+                    [
+                        4,
+                        14
+                    ],
+                    [
+                        5,
+                        10
+                    ],
+                    [
+                        6,
+                        9
+                    ],
+                    [
+                        6,
+                        12
+                    ],
+                    [
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "ent_type": {
+                "correct_indices": [
+                    [
+                        1,
+                        9
+                    ],
+                    [
+                        2,
+                        8
+                    ],
+                    [
+                        4,
+                        10
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        11
+                    ],
+                    [
+                        3,
+                        8
+                    ],
+                    [
+                        4,
+                        13
+                    ],
+                    [
+                        4,
+                        14
+                    ],
+                    [
+                        5,
+                        10
+                    ],
+                    [
+                        6,
+                        9
+                    ],
+                    [
+                        6,
+                        12
+                    ],
+                    [
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "partial": {
+                "correct_indices": [
+                    [
+                        1,
+                        9
+                    ],
+                    [
+                        2,
+                        8
+                    ],
+                    [
+                        4,
+                        10
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        11
+                    ],
+                    [
+                        3,
+                        8
+                    ],
+                    [
+                        4,
+                        13
+                    ],
+                    [
+                        4,
+                        14
+                    ],
+                    [
+                        5,
+                        10
+                    ],
+                    [
+                        6,
+                        9
+                    ],
+                    [
+                        6,
+                        12
+                    ],
+                    [
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "exact": {
+                "correct_indices": [
+                    [
+                        1,
+                        9
+                    ],
+                    [
+                        2,
+                        8
+                    ],
+                    [
+                        4,
+                        10
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [],
+                "spurious_indices": [
+                    [
+                        0,
+                        11
+                    ],
+                    [
+                        3,
+                        8
+                    ],
+                    [
+                        4,
+                        13
+                    ],
+                    [
+                        4,
+                        14
+                    ],
+                    [
+                        5,
+                        10
+                    ],
+                    [
+                        6,
+                        9
+                    ],
+                    [
+                        6,
+                        12
+                    ],
+                    [
+                        7,
+                        12
+                    ]
+                ]
+            }
+        },
+        "Symptom": {
+            "strict": {
+                "correct_indices": [
+                    [
+                        1,
+                        5
+                    ],
+                    [
+                        2,
+                        5
+                    ],
+                    [
+                        2,
+                        6
+                    ],
+                    [
+                        6,
+                        6
+                    ],
+                    [
+                        7,
+                        6
+                    ],
+                    [
+                        7,
+                        7
+                    ]
+                ],
+                "incorrect_indices": [
+                    [
+                        4,
+                        6
+                    ],
+                    [
+                        4,
+                        6
+                    ],
+                    [
+                        5,
+                        6
+                    ],
+                    [
+                        5,
+                        6
+                    ]
+                ],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        3,
+                        5
+                    ],
+                    [
+                        3,
+                        6
+                    ],
+                    [
+                        3,
+                        7
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        0,
+                        5
+                    ],
+                    [
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "ent_type": {
+                "correct_indices": [
+                    [
+                        1,
+                        5
+                    ],
+                    [
+                        2,
+                        5
+                    ],
+                    [
+                        2,
+                        6
+                    ],
+                    [
+                        6,
+                        6
+                    ],
+                    [
+                        7,
+                        6
+                    ],
+                    [
+                        7,
+                        7
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        3,
+                        5
+                    ],
+                    [
+                        3,
+                        6
+                    ],
+                    [
+                        3,
+                        7
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        0,
+                        5
+                    ],
+                    [
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "partial": {
+                "correct_indices": [
+                    [
+                        1,
+                        5
+                    ],
+                    [
+                        2,
+                        5
+                    ],
+                    [
+                        2,
+                        6
+                    ],
+                    [
+                        6,
+                        6
+                    ],
+                    [
+                        7,
+                        6
+                    ],
+                    [
+                        7,
+                        7
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [
+                    [
+                        4,
+                        6
+                    ],
+                    [
+                        4,
+                        6
+                    ],
+                    [
+                        5,
+                        6
+                    ],
+                    [
+                        5,
+                        6
+                    ]
+                ],
+                "missed_indices": [
+                    [
+                        3,
+                        5
+                    ],
+                    [
+                        3,
+                        6
+                    ],
+                    [
+                        3,
+                        7
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        0,
+                        5
+                    ],
+                    [
+                        7,
+                        11
+                    ]
+                ]
+            },
+            "exact": {
+                "correct_indices": [
+                    [
+                        1,
+                        5
+                    ],
+                    [
+                        2,
+                        5
+                    ],
+                    [
+                        2,
+                        6
+                    ],
+                    [
+                        6,
+                        6
+                    ],
+                    [
+                        7,
+                        6
+                    ],
+                    [
+                        7,
+                        7
+                    ]
+                ],
+                "incorrect_indices": [
+                    [
+                        4,
+                        6
+                    ],
+                    [
+                        4,
+                        6
+                    ],
+                    [
+                        5,
+                        6
+                    ],
+                    [
+                        5,
+                        6
+                    ]
+                ],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        3,
+                        5
+                    ],
+                    [
+                        3,
+                        6
+                    ],
+                    [
+                        3,
+                        7
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        0,
+                        5
+                    ],
+                    [
+                        7,
+                        11
+                    ]
+                ]
+            }
+        },
+        "Tests": {
+            "strict": {
+                "correct_indices": [
+                    [
+                        1,
+                        7
+                    ],
+                    [
+                        3,
+                        7
+                    ],
+                    [
+                        4,
+                        7
+                    ],
+                    [
+                        4,
+                        8
+                    ],
+                    [
+                        6,
+                        8
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        2,
+                        7
+                    ],
+                    [
+                        2,
+                        8
+                    ],
+                    [
+                        5,
+                        8
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        1,
+                        6
+                    ],
+                    [
+                        2,
+                        15
+                    ],
+                    [
+                        7,
+                        13
+                    ]
+                ]
+            },
+            "ent_type": {
+                "correct_indices": [
+                    [
+                        1,
+                        7
+                    ],
+                    [
+                        3,
+                        7
+                    ],
+                    [
+                        4,
+                        7
+                    ],
+                    [
+                        4,
+                        8
+                    ],
+                    [
+                        6,
+                        8
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        2,
+                        7
+                    ],
+                    [
+                        2,
+                        8
+                    ],
+                    [
+                        5,
+                        8
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        1,
+                        6
+                    ],
+                    [
+                        2,
+                        15
+                    ],
+                    [
+                        7,
+                        13
+                    ]
+                ]
+            },
+            "partial": {
+                "correct_indices": [
+                    [
+                        1,
+                        7
+                    ],
+                    [
+                        3,
+                        7
+                    ],
+                    [
+                        4,
+                        7
+                    ],
+                    [
+                        4,
+                        8
+                    ],
+                    [
+                        6,
+                        8
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        2,
+                        7
+                    ],
+                    [
+                        2,
+                        8
+                    ],
+                    [
+                        5,
+                        8
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        1,
+                        6
+                    ],
+                    [
+                        2,
+                        15
+                    ],
+                    [
+                        7,
+                        13
+                    ]
+                ]
+            },
+            "exact": {
+                "correct_indices": [
+                    [
+                        1,
+                        7
+                    ],
+                    [
+                        3,
+                        7
+                    ],
+                    [
+                        4,
+                        7
+                    ],
+                    [
+                        4,
+                        8
+                    ],
+                    [
+                        6,
+                        8
+                    ]
+                ],
+                "incorrect_indices": [],
+                "partial_indices": [],
+                "missed_indices": [
+                    [
+                        2,
+                        7
+                    ],
+                    [
+                        2,
+                        8
+                    ],
+                    [
+                        5,
+                        8
+                    ]
+                ],
+                "spurious_indices": [
+                    [
+                        1,
+                        6
+                    ],
+                    [
+                        2,
+                        15
+                    ],
+                    [
+                        7,
+                        13
+                    ]
+                ]
+            }
+        }
+    }
+]
