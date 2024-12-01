@@ -1,0 +1,174 @@
+{
+    "Report0": [
+        [
+            "Names of Patients",
+            "John Smith"
+        ],
+        [
+            "Patient's Age",
+            "58"
+        ],
+        [
+            "Patient's Sex",
+            "Male"
+        ],
+        [
+            "Admission date",
+            "12th October 2023"
+        ],
+        [
+            "Symptom",
+            "occasional headaches"
+        ],
+        [
+            "Symptom",
+            "fatigue"
+        ],
+        [
+            "Disease",
+            "Hypertension"
+        ],
+        [
+            "Medication and dosing",
+            "amlodipine 5 mg once daily"
+        ],
+        [
+            "Patient's Weight",
+            "95 kg"
+        ],
+        [
+            "Patient's Height",
+            "1.75 meters"
+        ],
+        [
+            "Tests",
+            "blood pressure was noted to be 150/95 mmHg"
+        ],
+        [
+            "Symtom",
+            "Heart rate was 78 beats per minute and regular"
+        ],
+        [
+            "Tests",
+            "elevated serum cholesterol levels"
+        ],
+        [
+            "Tests",
+            "LDL cholesterol elevated"
+        ],
+        [
+            "Tests",
+            "GFR of 85 mL/min/1.73 m\u00b2"
+        ],
+        [
+            "Tests",
+            "Blood glucose levels within normal range at5.3 mmol/L"
+        ],
+        [
+            "Diagnosis",
+            "Stage 2 Hypertension with borderline hyperlipidemia"
+        ],
+        [
+            "Medication and dosing",
+            "amlodipine 5 mg once daily"
+        ],
+        [
+            "Medication and dosing",
+            "atorvastatin 20 mg once daily"
+        ]
+    ],
+    "Report1": [
+        [
+            "Names of Patients",
+            "Mary Thompson"
+        ],
+        [
+            "Patient's Age",
+            "65"
+        ],
+        [
+            "Patient's Sex",
+            "Female"
+        ],
+        [
+            "Admission date",
+            "10th October 2023"
+        ],
+        [
+            "Names of Patients",
+            "Mary Thompson"
+        ],
+        [
+            "Patient's Age",
+            "65-year-old"
+        ],
+        [
+            "Patient's Sex",
+            "Female"
+        ],
+        [
+            "Symptom",
+            "fluctuations in blood sugar levels"
+        ],
+        [
+            "Disease",
+            "Type 2 Diabetes Mellitus"
+        ],
+        [
+            "Medication and dosing",
+            "metformin 500 mg twice daily"
+        ],
+        [
+            "Symptom",
+            "difficulty maintaining stable blood glucose readings"
+        ],
+        [
+            "Tests",
+            "HbA1c levels at 8.2%"
+        ],
+        [
+            "Tests",
+            "blood pressure is 145/92 mmHg"
+        ],
+        [
+            "Tests",
+            "pulse is steady at 82 beats per minute"
+        ],
+        [
+            "Tests",
+            "heart and lung auscultations are normal"
+        ],
+        [
+            "Tests",
+            "fasting blood glucose elevated at 9.5 mmol/L"
+        ],
+        [
+            "Tests",
+            "total cholesterol at 5.8 mmol/L"
+        ],
+        [
+            "Tests",
+            "triglycerides elevated at 2.4 mmol/L"
+        ],
+        [
+            "Tests",
+            "eGFR of 90 mL/min/1.73 m\u00b2"
+        ],
+        [
+            "Diagnosis",
+            "Poorly controlled Type 2 Diabetes Mellitus"
+        ],
+        [
+            "Medication and dosing",
+            "metformin 1000 mg twice daily"
+        ],
+        [
+            "Medication and dosing",
+            "liraglutide 0.6 mg daily"
+        ],
+        [
+            "Tests",
+            "HbA1c levels"
+        ]
+    ]
+}
