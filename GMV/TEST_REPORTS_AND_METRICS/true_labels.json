@@ -1,0 +1,466 @@
+{
+    "Report0": [
+        [
+            "Names of Patients",
+            "James Turner"
+        ],
+        [
+            "Patient's Age",
+            "45"
+        ],
+        [
+            "Patient's Sex",
+            "Male"
+        ],
+        [
+            "Patient's Height",
+            "175 cm"
+        ],
+        [
+            "Patient's Weight",
+            "88 kg"
+        ],
+        [
+            "Names of Patiens",
+            "Mr. Turner's"
+        ],
+        [
+            "Admission date",
+            "13th August 2023"
+        ],
+        [
+            "Medical discharge date",
+            "20th August 2023"
+        ],
+        [
+            "Diagnosis",
+            "chronic obstructive pulmonary disease (COPD)"
+        ],
+        [
+            "Symptom",
+            "persistent cough"
+        ],
+        [
+            "Symptom",
+            "shortness of breath"
+        ],
+        [
+            "Medication and dosing",
+            "Tiotropium, 18 mcg once daily"
+        ],
+        [
+            "Medication and dosing",
+            "Salbutamol inhaler, 100 mcg as needed"
+        ],
+        [
+            "Tests",
+            "pulmonary function test"
+        ]
+    ],
+    "Report1": [
+        [
+            "Names of Patients",
+            "Emily Johnson"
+        ],
+        [
+            "Patient's Age",
+            "30"
+        ],
+        [
+            "Patient's Sex",
+            "Female"
+        ],
+        [
+            "Patient's Height",
+            "162 cm"
+        ],
+        [
+            "Patient's Weight",
+            "67 kg"
+        ],
+        [
+            "Names of Patients",
+            "Ms. Johnson"
+        ],
+        [
+            "Admission date",
+            "22nd September 2023"
+        ],
+        [
+            "Symptom",
+            "severe abdominal pain"
+        ],
+        [
+            "Tests",
+            "abdominal ultrasound"
+        ],
+        [
+            "Diagnosis",
+            "acute appendicitis"
+        ],
+        [
+            "Procedure",
+            "appendectomy"
+        ],
+        [
+            "Medication and dosing",
+            "Ibuprofen, 400 mg every 8 hours as needed for pain"
+        ],
+        [
+            "Medical discharge date",
+            "27th September 2023"
+        ]
+    ],
+    "Report2": [
+        [
+            "Names of Patients",
+            "William Harrison"
+        ],
+        [
+            "Patient's Age",
+            "62"
+        ],
+        [
+            "Patient's Sex",
+            "Male"
+        ],
+        [
+            "Patient's Height",
+            "180 cm"
+        ],
+        [
+            "Patient's Weight",
+            "95 kg"
+        ],
+        [
+            "Names of Patients",
+            "Mr. Harrison"
+        ],
+        [
+            "Admission date",
+            "3rd July 2023"
+        ],
+        [
+            "Symptom",
+            "chest pain"
+        ],
+        [
+            "Symptom",
+            "unexplained fatigue"
+        ],
+        [
+            "Tests",
+            "electrocardiogram"
+        ],
+        [
+            "Tests",
+            "angiography"
+        ],
+        [
+            "Diagnosis",
+            "coronary artery disease"
+        ],
+        [
+            "Procedure",
+            "percutaneous coronary intervention"
+        ],
+        [
+            "Medical discharge date",
+            "10th July 2023"
+        ],
+        [
+            "Medication and dosing",
+            "Aspirin, 81 mg daily"
+        ],
+        [
+            "Medication and dosing",
+            "Atorvastatin, 40 mg once daily"
+        ],
+        [
+            "Names of Patients",
+            "Mr. Harrison"
+        ]
+    ],
+    "Report3": [
+        [
+            "Names of Patients",
+            "Sarah Kinsey"
+        ],
+        [
+            "Patient's Age",
+            "52"
+        ],
+        [
+            "Patient's Sex",
+            "Female"
+        ],
+        [
+            "Patient's Height",
+            "168 cm"
+        ],
+        [
+            "Patient's Weight",
+            "74 kg"
+        ],
+        [
+            "Names of Patients",
+            "Mrs. Kinsey"
+        ],
+        [
+            "Admission date",
+            "6th January 2023"
+        ],
+        [
+            "Symptom",
+            "frequent urination"
+        ],
+        [
+            "Symptom",
+            "excessive thirst"
+        ],
+        [
+            "Symptom",
+            "blood glucose levels"
+        ],
+        [
+            "Diagnosis",
+            "diabetes mellitus type 2"
+        ],
+        [
+            "Medication and dosing",
+            "Metformin, 500 mg twice daily"
+        ],
+        [
+            "Medical discharge date",
+            "12th January 2023"
+        ],
+        [
+            "Tests",
+            "blood glucose"
+        ],
+        [
+            "Follow-up date",
+            "three months"
+        ]
+    ],
+    "Report4": [
+        [
+            "Names of Patients",
+            "Juan Mart\u00ednez"
+        ],
+        [
+            "Patient's Age",
+            "45 a\u00f1os"
+        ],
+        [
+            "Patient's Sex",
+            "Masculino"
+        ],
+        [
+            "Patient's Height",
+            "178 cm"
+        ],
+        [
+            "Patient's Weight",
+            "85 kg"
+        ],
+        [
+            "Admission date",
+            "10 de octubre de 2023"
+        ],
+        [
+            "Medical discharge date",
+            "15 de octubre de 2023"
+        ],
+        [
+            "Symptom",
+            "dolor tor\u00e1cico"
+        ],
+        [
+            "Symptom",
+            "dificultad para respirar"
+        ],
+        [
+            "Tests",
+            "electrocardiograma"
+        ],
+        [
+            "Tests",
+            "an\u00e1lisis de sangre"
+        ],
+        [
+            "Diagnosis",
+            "infarto agudo de miocardio"
+        ],
+        [
+            "Procedure",
+            "angioplastia coronaria"
+        ],
+        [
+            "Medication and dosing",
+            "clopidogrel 75 mg/d\u00eda"
+        ],
+        [
+            "Medication and dosing",
+            "atorvastatina 40 mg/d\u00eda"
+        ]
+    ],
+    "Report5": [
+        [
+            "Names of Patients",
+            "Mar\u00eda L\u00f3pez"
+        ],
+        [
+            "Patient's Age",
+            "32 a\u00f1os"
+        ],
+        [
+            "Patient's Sex",
+            "Femenino"
+        ],
+        [
+            "Patient's Height",
+            "162 cm"
+        ],
+        [
+            "Patient's Weight",
+            "60 kg"
+        ],
+        [
+            "Admission date",
+            "22 de septiembre de 2023"
+        ],
+        [
+            "Medical discharge date",
+            "29 de septiembre de 2023"
+        ],
+        [
+            "Symptom",
+            "fiebre"
+        ],
+        [
+            "Symptom",
+            "tos persistente"
+        ],
+        [
+            "Tests",
+            "radiograf\u00eda de t\u00f3rax"
+        ],
+        [
+            "Diagnosis",
+            "neumon\u00eda bacteriana"
+        ],
+        [
+            "Medication and dosing",
+            "amoxicilina/clavul\u00e1nico 875 mg cada 12 horas"
+        ],
+        [
+            "Medication and dosing",
+            "paracetamol 500 mg cada 8 horas"
+        ]
+    ],
+    "Report6": [
+        [
+            "Names of Patients",
+            "Carmen Rodr\u00edguez"
+        ],
+        [
+            "Patient's Age",
+            "60 a\u00f1os"
+        ],
+        [
+            "Patient's Sex",
+            "Femenino"
+        ],
+        [
+            "Patient's Height",
+            "155 cm"
+        ],
+        [
+            "Patient's Weight",
+            "68 kg"
+        ],
+        [
+            "Admission date",
+            "1 de octubre de 2023"
+        ],
+        [
+            "Medical discharge date",
+            "8 de octubre de 2023"
+        ],
+        [
+            "Symptom",
+            "dolor abdominal intenso"
+        ],
+        [
+            "Tests",
+            "ecograf\u00eda"
+        ],
+        [
+            "Diagnosis",
+            "colecistitis aguda"
+        ],
+        [
+            "Procedure",
+            "colecistectom\u00eda laparosc\u00f3pica"
+        ],
+        [
+            "Medication and dosing",
+            "ciprofloxacino 500 mg cada 12 horas"
+        ],
+        [
+            "Medication and dosing",
+            "metamizol 575 mg"
+        ]
+    ],
+    "Report7": [
+        [
+            "Names of Patients",
+            "Pedro Gonz\u00e1lez"
+        ],
+        [
+            "Patient's Age",
+            "27 a\u00f1os"
+        ],
+        [
+            "Patient's Sex",
+            "Masculino"
+        ],
+        [
+            "Patient's Height",
+            "183 cm"
+        ],
+        [
+            "Patient's Weight",
+            "77 kg"
+        ],
+        [
+            "Admission date",
+            "5 de septiembre de 2023"
+        ],
+        [
+            "Medical discharge date",
+            "12 de septiembre de 2023"
+        ],
+        [
+            "Symptom",
+            "dolor de cabeza severo"
+        ],
+        [
+            "Symptom",
+            "sensibilidad a la luz"
+        ],
+        [
+            "Diagnosis",
+            "migra\u00f1a cr\u00f3nica"
+        ],
+        [
+            "Medication and dosing",
+            "sumatript\u00e1n 50 mg durante los episodios agudos"
+        ],
+        [
+            "Medication and dosing",
+            "propranolol 40 mg dos veces al d\u00eda"
+        ]
+    ]
+}
